@@ -1,6 +1,7 @@
 社群名稱| eventsite|
 ---|---|
 台北.py| http://taipei.python.org.tw/|
+台中.py| http://www.meetup.com/Taichung-Python-Meetup/|
 台南.py| http://www.meetup.com/Tainan-py-Python-Tainan-User-Group/|
 桃園.py| http://wasn.csie.ncu.edu.tw:8090/pages/viewpage.action?pageId=13303896|
 花蓮.py| http://hualien.python.org.tw/|
