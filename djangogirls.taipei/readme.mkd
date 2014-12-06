@@ -1,0 +1,1 @@
+from djangoGrils project https://github.com/DjangoGirls/resources/tree/master/Design/Logo

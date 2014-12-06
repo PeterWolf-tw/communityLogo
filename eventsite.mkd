@@ -1,0 +1,12 @@
+社群名稱| eventsite|
+---|---|
+台北.py| http://taipei.python.org.tw/|
+台中.py| http://www.meetup.com/Taichung-Python-Meetup/|
+台南.py| http://www.meetup.com/Tainan-py-Python-Tainan-User-Group/|
+桃園.py| http://wasn.csie.ncu.edu.tw:8090/pages/viewpage.action?pageId=13303896|
+花蓮.py| http://hualien.python.org.tw/|
+高雄.py| http://kaohsiungpy.kktix.cc/|
+djangogirls.taipei| http://djangogirls.kktix.cc/events/taipei-1|
+pyladies.tw| http://tw.pyladies.com/| 
+geekpy| http://geekpy.org/|
+PyHUG-Logo(Peter)| http://www.meetup.com/pythonhug/|
